@@ -7,7 +7,7 @@ HW05 -- Stuylin'
 
 /* This will style all h1 elements with font Georgian */
 h1 {
-    font-style: Serif
+    font-style: normal
 }
 
 /* This will style all h2 elements with color green */
