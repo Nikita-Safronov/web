@@ -1,0 +1,21 @@
+/*
+Nikita Safronov
+IntroCS pd7 sec11
+HW05 -- Stuylin'
+2021-02-25
+*/
+
+/* This will style all h1 elements with font Georgian */
+h1 {
+    font-style: georgian
+}
+
+/* This will style all h2 elements with color green */
+h2 {
+    color: green
+}
+
+/* This will make the page background cyan */
+body {
+    background-color: cyan; /* bc dark mode 4 teh youngs */
+}
